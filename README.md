@@ -48,8 +48,7 @@
 <h5>1.Call func (tự viết)</h5>
 <h5>2.Khai báo biến</h5>
 <h5>3.Code điều hướng (menu)</h5>
-<h4>Đến đây là hết rùi. Chúc mọi người pass LAB211 nhé :></h4>
-<h4>Vì để cảm ơn công sức mọi người đã đọc đến đây nên mình sẽ bonus thêm phần câu hỏi review mà thầy đã hỏi mình nhé :v</h4>
+<h3>Vì để cảm ơn công sức mọi người đã đọc đến đây nên mình sẽ bonus thêm phần câu hỏi review mà thầy đã hỏi mình nhé :v</h3>
 <h5>P0001
 Với bài này thì thầy đã yêu cầu mình trình bày về tư tưởng của bubble sort, thuật toán sẽ hoạt động như thế nào?
 Đại khái là mình đã trả lời là thuật toán sẽ dùng 2 vòng lặp lồng nhau,
@@ -72,3 +71,4 @@ Trả lời: do em sử dụng kiểu dữ liệu date đã định nghĩa sẵn
 <h5>P0105
 Bài này câu hỏi tương tự như bài P0101 chỉ khác phần method compareTo là so sánh dựa trên 2 thuộc tính nếu expiry date của 2 sản phẩm là giống nhau thì sẽ so sánh dựa trên manufacture date còn không thì sẽ so sánh theo expiry date</h5>
 <h4>Chính thức kết thúc ở đây nhé :v Nhớ là mọi thứ mọi người phải thực sự hiểu rõ là mình đang làm gì nhé, không là toang đấy! </h4>
+<h3>Cảm ơn mọi người đã đọc, chúc mn pass LAB211 </h3>
