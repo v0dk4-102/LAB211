@@ -49,3 +49,26 @@
 <h5>2.Khai báo biến</h5>
 <h5>3.Code điều hướng (menu)</h5>
 <h4>Đến đây là hết rùi. Chúc mọi người pass LAB211 nhé :></h4>
+<h4>Vì để cảm ơn công sức mọi người đã đọc đến đây nên mình sẽ bonus thêm phần câu hỏi review mà thầy đã hỏi mình nhé :v</h4>
+<h5>P0001
+Với bài này thì thầy đã yêu cầu mình trình bày về tư tưởng của bubble sort, thuật toán sẽ hoạt động như thế nào?
+Đại khái là mình đã trả lời là thuật toán sẽ dùng 2 vòng lặp lồng nhau,
+với vòng lặp đầu tiên chạy từ đầu đến cuối mảng, vòng lặp thứ 2 nằm trong vòng lặp thứ nhất thì sẽ chạy từ đầu cho tới phần tử ngay trước phần tử cuối cùng chưa được sắp xếp(phần tử có index là length-i-2), trong mỗi vòng lặp con thì sẽ so sánh 2 phần tử kề nhau</h5>
+<h5>P0021
+Về bài này thì thầy đã hỏi mình là sự khác nhau giữa việc chọn update tất cả attribute của 1 student và update chỉ duy nhất 1 attribute của student. Đại khái câu trả lời sẽ là việc update duy nhất 1 attribute sẽ chỉ làm cho việc update các attribute riêng biệt nhau, xử lý các trường hợp riêng lẻ và thầy có suggest mình là nên làm update tất cả attribute thay vì chỉ 1</h5>
+<h5>P0071
+Bài này thầy hỏi mình là làm như thế nào để biết được 2 task bị giao nhau. 
+Trả lời: coi khoảng thời gian của task đã được đăng kí trước là 1 khoảng, nếu thời gian planTo của task mới nhỏ hơn planFrom của task đã được đăng kí(tức là nó xảy ra trước) hoặc thời gian planFrom của task mới lớn hơn planTo của task cũ (tức là xảy ra sau) thì 2 task sẽ không giao nhau, nếu không thỏa mãn cả 2 điều kiện trên thì chắc chắn sẽ giao nhau</h5>
+<h5>P0074
+Câu hỏi bài này thầy dành cho mình là làm như thế nào để nhân 2 ma trận với nhau?
+Trả lời: lấy từng phần tử trong hàng của ma trận 1 nhân với phần tử tương ứng ở ma trận thứ 2 và cộng các kết quả của phép nhân vào.
+Bonus: thầy hỏi index k(index ở vòng lặp thứ 3) ở đây là gì?</h5>
+<h5>P0101
+Với bài này, câu hỏi của thầy là em đã thực hiện việc sort như thế nào?
+Với cách làm của mình thì mình sẽ trả lời là: cho class Employee implements comparable trên chính thực thể employee và sau đó override method compareTo trên thuộc tính salary, tiếp đó ở hàm sort chỉ việc gọi collectsion.sort là oke</h5>
+<h5>P0102
+Câu hỏi dành cho bài này là em đã thực hiện việc so sánh 2 ngày như thế nào? 
+Trả lời: do em sử dụng kiểu dữ liệu date đã định nghĩa sẵn việc so sánh giữa 2 date với nhau nên em chỉ việc gọi hàm là được, có 2 hàm là after và before thì thích cái nào thì dùng cái đó</h5>
+<h5>P0105
+Bài này câu hỏi tương tự như bài P0101 chỉ khác phần method compareTo là so sánh dựa trên 2 thuộc tính nếu expiry date của 2 sản phẩm là giống nhau thì sẽ so sánh dựa trên manufacture date còn không thì sẽ so sánh theo expiry date</h5>
+<h4>Chính thức kết thúc ở đây nhé :v Nhớ là mọi thứ mọi người phải thực sự hiểu rõ là mình đang làm gì nhé, không là toang đấy! </h4>
