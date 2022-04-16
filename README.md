@@ -71,4 +71,4 @@ Trả lời: do em sử dụng kiểu dữ liệu date đã định nghĩa sẵn
 <h5>P0105
 Bài này câu hỏi tương tự như bài P0101 chỉ khác phần method compareTo là so sánh dựa trên 2 thuộc tính nếu expiry date của 2 sản phẩm là giống nhau thì sẽ so sánh dựa trên manufacture date còn không thì sẽ so sánh theo expiry date</h5>
 <h4>Chính thức kết thúc ở đây nhé :v Nhớ là mọi thứ mọi người phải thực sự hiểu rõ là mình đang làm gì nhé, không là toang đấy! </h4>
-<h3>Cảm ơn mọi người đã đọc, chúc mn pass LAB211 </h3>
+<h3>Cảm ơn mọi người đã đọc, chúc mn pass LAB211. Hiuhiu.</h3>
